@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+    <Ad id="266348545-54107847">
+        <InLine>
+            <AdSystem><![CDATA[dfp]]></AdSystem>
+            <AdTitle><![CDATA[10x1 - Inline VAST2 New - TOYOTA - Ad-ID 266348545-54107847]]></AdTitle>
+            <Description><![CDATA[]]></Description>
+            <Error><![CDATA[http://event.movad.de/c.ount?et=66&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Error>
+            <Impression id="intern"><![CDATA[http://ad.71i.de/blind.gif?http://ad.de.doubleclick.net/imp;v7;x;266348545;0-0;1;81570292;10/1;54107847/54014353/1;;~aopt=2/1/ff/2;~okv=;dcmt=text/xml;sz=10x1;pos=1;vpos=1;vtype=1;zz=10x1;iredir=http://ad.71i.de/blind.gif?;u=pos=1,vpos=1,tile=1,zz=10x1;showroom=inline_vast2;~cs=r%3f]]></Impression>
+            <Impression id="movad"><![CDATA[http://event.movad.de/c.ount?et=1&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Impression>
+            <Impression id="3rdparty"><![CDATA[http://fake.impression.michalad.de/3rdParty]]></Impression>
+            <Impression id="bfp"><![CDATA[]]></Impression>
+            <Impression id="mafo1"><![CDATA[]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration><![CDATA[00:00:19]]></Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[http://event.movad.de/c.ount?et=10&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="start"><![CDATA[http://fake.start.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://event.movad.de/c.ount?et=32&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://fake.25.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://event.movad.de/c.ount?et=35&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://fake.50.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://event.movad.de/c.ount?et=37&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://fake.75.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://event.movad.de/c.ount?et=40&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://fake.100.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://event.movad.de/c.ount?et=14&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="mute"><![CDATA[]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://event.movad.de/c.ount?et=15&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://event.movad.de/c.ount?et=16&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://event.movad.de/c.ount?et=11&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://fake.pause.michalad.de/3rdParty]]></Tracking>
+                            <Tracking event="expand"><![CDATA[http://event.movad.de/c.ount?et=3&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[http://event.movad.de/c.ount?et=4&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://event.movad.de/c.ount?et=4&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://event.movad.de/c.ount?et=20&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://www.toyota.de]]></ClickThrough>
+                            <ClickTracking id="intern"><![CDATA[http://ad.de.doubleclick.net/click%3Bh%3Dv8/3e21/3/0/%2a/s%3B266348545%3B0-0%3B1%3B81570292%3B5940-10/1%3B54107847/54014353/1%3Bu%3Dpos%3D1%2Cvpos%3D1%2Ctile%3D1%2Czz%3D10x1%3B%7Eaopt%3D2/1/ff/2%3B%7Esscs%3D%3fhttp://s0.2mdn.net/dot.gif]]></ClickTracking>
+                            <ClickTracking id="movad"><![CDATA[http://event.movad.de/c.ount?et=2&ad=1&ci=266348545&c10=54107847&c9=6641765&c11=in&ho=showroom&c8=111111&c7=3668084&c12=81570292&po=7&us=sim&t=4243629]]></ClickTracking>
+                            <ClickTracking id="3rdparty"><![CDATA[http://fake.click.michalad.de/3rdParty]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/x-flv"><![CDATA[http://ad.71i.de/images/sony/mobile/mobile/120830_joko_Klaas_SonyHandy_XS_Jetzt.flv]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="mobile/m3u8"><![CDATA[http://ad.71i.de/images/toyota/2013/130118/Toyota_Auris_Preroll_19s_LAMA_WEB_.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="830" height="467" type="application/x-mpegURL"><![CDATA[http://ad.71i.de/images/toyota/2013/130118/Toyota_Auris_Preroll_19s_LAMA_WEB_.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="400" width="0" height="0" type="video/mp4"><![CDATA[http://ad.71i.de/images/toyota/2013/130118/Toyota_Auris_Preroll_19s_LAMA_WEB_.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>    
+            <Extensions>
+                <Extension type="dfp">
+                    <AdServingData>
+                        <Industry><![CDATA[]]></Industry>
+                    </AdServingData>
+                </Extension>
+                <Extension type="adgapID"><![CDATA[]]></Extension>
+              </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
