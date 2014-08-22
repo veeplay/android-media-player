@@ -1,3 +1,6 @@
+1.8.3
+=====
+	- Added support for the Marlin DRM Plugin
 1.8.2
 =====
 	- Improved support for playing HLS / M3U8 streams
