@@ -36,15 +36,16 @@ public final class R {
         public static int share=0x7f020013;
     }
     public static final class id {
-        public static int back=0x7f050004;
-        public static int browser=0x7f050008;
+        public static int back=0x7f050005;
+        public static int browser=0x7f050009;
         public static int controlsoverlay=0x7f050001;
-        public static int forward=0x7f050005;
-        public static int refresh=0x7f050006;
-        public static int share=0x7f050007;
+        public static int forward=0x7f050006;
+        public static int refresh=0x7f050007;
+        public static int share=0x7f050008;
         public static int skipbutton=0x7f050000;
-        public static int title=0x7f050002;
-        public static int webView=0x7f050003;
+        public static int title=0x7f050003;
+        public static int webView=0x7f050004;
+        public static int youtubeoverlay=0x7f050002;
     }
     public static final class layout {
         public static int webbrowser=0x7f030000;
