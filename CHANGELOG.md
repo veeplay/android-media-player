@@ -1,3 +1,6 @@
+1.8.6
+=====
+- Minor bugfixes for DRM managers
 1.8.5
 =====
 - APSMediaEvents definitions are now an Enum instead of String constants
