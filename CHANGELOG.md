@@ -1,3 +1,10 @@
+1.9.0
+=====
+- Units, Overlays and AdBreaks are now APSMediaEvents instances. This allows just-in-time VAST/VMAP feed retrieval, as well as banner preloading on Image overlays
+- APSMediaBuilder#mediaUnits and APSMediaPlayer#playMediaUnits now accept ArrayList<APSMediaEvent>
+- APSMediaUnit, APSMediaOverlay and APSVastAdBreak are now members of the com.appscend.media.events package
+- APSMediaEvents has ben renamed to APSMediaTrackingEvents
+
 1.8.6
 =====
 - Minor bugfixes for DRM managers
