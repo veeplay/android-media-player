@@ -1,3 +1,7 @@
+1.9.1
+=====
+- Added a more detailed error message for invalid licenses
+
 1.9.0
 =====
 - Units, Overlays and AdBreaks are now APSMediaEvent instances. This allows just-in-time VAST/VMAP feed retrieval, as well as banner preloading on Image overlays
