@@ -1,4 +1,5 @@
 1.9.2
+=====
 - Addressed a bug causing a crash when toggling full-screen mode.
 
 1.9.1
