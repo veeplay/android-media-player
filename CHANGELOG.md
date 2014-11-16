@@ -1,3 +1,9 @@
+1.9.3
+=====
+- Re-implemented full-screen mode toggling
+- Bug fixes for text and skip overlays
+- Bugfixes affecting multiple ads in an adbreak
+
 1.9.2
 =====
 - Addressed a bug causing a crash when toggling full-screen mode.
