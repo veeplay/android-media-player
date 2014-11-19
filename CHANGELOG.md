@@ -1,3 +1,8 @@
+1.9.4
+=====
+- Added a bugfix preventing seeking past the end of a video unit
+- Added the PLAYLIST_FINISHED trackable event for detecting the end of the playback of the last unit in the playlist
+
 1.9.3
 =====
 - Re-implemented full-screen mode toggling
