@@ -1,3 +1,8 @@
+1.9.5
+=====
+- Added unit and overlay metadata keys for current adbreak offset
+- Unit metadata is now copied for unit clones
+
 1.9.4
 =====
 - Added a bugfix preventing seeking past the end of a video unit
