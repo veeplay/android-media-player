@@ -1,3 +1,11 @@
+1.9.6
+=====
+- Added a bugfix for a crash during player finish
+- Added seek handling support: by default, the player will only play the last scheduled adbreak, when seeking. This can be configured via the APSMediaUnit#seekHandling field, or using the JSON configuration, on the content unit: "seekAdHandling": "last" (/first/all)
+- Added automatic ad breaks positioning: a minimum initial offset, minimum final offset and minimum interval between ad-breaks can be set (all default to 300 seconds). Ad breaks that are not configured with an offset will be automatically scheduled based on these three parameters.
+- Added the FORWARD event, for detecting forward seeks
+- The SurfaceView is now secure, by default, on devices with API level > 17. This behaviour can be changed by calling APSMediaPlayer#setSecureSurfaceView(false) before initializing the player.
+
 1.9.5
 =====
 - Added unit and overlay metadata keys for current adbreak offset
