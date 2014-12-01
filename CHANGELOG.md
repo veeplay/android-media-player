@@ -1,3 +1,8 @@
+1.9.7
+=====
+- Bugfix for statically positioned midrolls
+- Bugfix for detecting playback state after seek (the player always returned false)
+
 1.9.6
 =====
 - Added a bugfix for a crash during player finish
