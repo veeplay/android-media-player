@@ -1,3 +1,11 @@
+1.9.8
+=====
+- Modified the onTrackingReceived header, it now only accepts two parameters: MediaEventType type and Bundle additionalInfo. The additionalInfo bundle contains by default the old parameters received by onTrackingReceived, on the "urls" and "description" keys.
+- Added the CLOCK_TICK event, an event that is fired every second the player is active.
+- Added two keys to the additionalInfo Bundle for the CLOCK_TICK event: "position" and "duration", containing two integers (the current position in seconds, and the current content duration, in milliseconds)
+- Added two events for detecting user interaction for pausing and resuming playback. The two events are USER_PAUSE and USER_UNPAUSE and are triggered by interacting with the pause button in the controls overlay
+- Fixed detecting the content position an adbreak has started at. Each ad content unit contains a metadata key called "aps_vast_adbreak_offset" that holds the offset the ad break has actually started at.
+
 1.9.7
 =====
 - Bugfix for statically positioned midrolls
