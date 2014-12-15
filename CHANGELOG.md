@@ -1,5 +1,13 @@
+1.9.12
+======
+- Bugfix: Multiple tracking URLs for the same event would override each other
+- Bugfix: Preventing the countdown timer to go below 0 while rebuffering
+- Preferring MP4 ads over HLS ads through Google DFP
+
 1.9.11
+======
 - Bugfix: When foregrounding an activity containing a player instance, the playback could have spontaneously resumed when playing a Marlin DRM encoded stream, or a normal HLS stream.
+
 1.9.10
 ======
 - Added a metadata field to each ad unit "source_index". This key can be used for identifying the source of an ad in an adbreak, when using multiple sources per adbreak.
