@@ -1,3 +1,8 @@
+1.9.13
+======
+- Added the OKHttp library from Square
+- Switched VAST tracking events to the OKHttp client, solving a random behaviour caused by HttpUrlConnection in connection with some devices and some proxy servers (f.e HTC Device and Charlesproxy)
+
 1.9.12
 ======
 - Bugfix: Multiple tracking URLs for the same event would override each other
