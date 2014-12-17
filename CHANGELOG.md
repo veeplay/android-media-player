@@ -1,3 +1,7 @@
+1.9.14
+======
+- Bugfix for VAST fallbacks
+
 1.9.13
 ======
 - Added the OKHttp library from Square
