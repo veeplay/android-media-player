@@ -1,3 +1,8 @@
+1.9.15
+======
+- ActionDelegate interface: respondTo now returns a boolean
+- Click tracking for action delegates is only triggered if respondTo returns true
+
 1.9.14
 ======
 - Bugfix for VAST fallbacks
