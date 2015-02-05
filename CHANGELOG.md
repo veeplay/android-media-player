@@ -1,3 +1,7 @@
+1.9.16
+======
+- Bugfixes addressing crashes during midroll adbreak transitions
+
 1.9.15
 ======
 - ActionDelegate interface: respondTo now returns a boolean
