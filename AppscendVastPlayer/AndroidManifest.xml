@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.appscend.vastplayer"
-    android:versionCode="1916"
-    android:versionName="1.9.16"
+    android:versionCode="1917"
+    android:versionName="1.9.17"
     android:installLocation="auto">
     <uses-sdk android:minSdkVersion="13"/>
     <application></application>

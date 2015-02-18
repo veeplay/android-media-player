@@ -1,3 +1,9 @@
+1.9.17
+======
+- kAPSMetadataCurrentAdBreakOffset metadata values are now integers
+- bugfix -> using autoplay=false and an initialPlaybackTime on pre 5.0 caused the video to start from the beggining
+- seekTo optimizations.
+
 1.9.16
 ======
 - Bugfixes addressing crashes during midroll adbreak transitions
