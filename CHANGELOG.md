@@ -1,3 +1,7 @@
+1.9.20
+======
+- improved stability and support for surface view state changes
+
 1.9.19
 ======
 -bugfix: setting an adbreak offset larger than 1 hour caused the offset to be marked as null.
