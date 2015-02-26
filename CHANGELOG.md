@@ -1,3 +1,7 @@
+1.9.21
+======
+- bugfix: calling resumePlay() before the VeePlay surface view was created would trigger an error and skipping to the next unit.
+
 1.9.20
 ======
 - improved stability and support for surface view state changes
