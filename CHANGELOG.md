@@ -1,3 +1,10 @@
+1.9.22
+======
+- major internal player refactoring to allow multiple renderers, in preparation for ExoPlayer support
+- bugfix: events with a high number of VAST sources might time out prematurely, causing them to be skipped
+- bugfix: calling getCurrentPosition during a unit transition might have caused a crash
+- increased default preload time to 10 seconds
+
 1.9.21
 ======
 - bugfix: calling resumePlay() before the VeePlay surface view was created would trigger an error and skipping to the next unit.
