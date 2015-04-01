@@ -1,3 +1,7 @@
+1.9.23
+======
+- bugfix - finishing the player during playback might cause a crash
+
 1.9.22
 ======
 - major internal player refactoring to allow multiple renderers, in preparation for ExoPlayer support
