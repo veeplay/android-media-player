@@ -1,3 +1,11 @@
+1.9.24 (2.0.0 RC1)
+==================
+- bugfix - cloning a unit did not also copy over the unit manager
+- added support for multiple renderers. By default, VeePlay ships with two default renderers, MediaPlayerRenderer (used automatically for 4.0.x devices) and ExoPlayerRenderer(used automatically for 4.1+ devices)
+- APSMediaUnit objects now hold a renderer string property. In order to explicitly set a renderer, use the static rendererIdentifier string of the renderer class.
+- bugfix - transitioning to full screen and then changing orientation could cause an exception
+- this version is a release candidate. Altough it was extensively tested over the past few weeks, it should be tested with each implementation before deploying into production
+
 1.9.23
 ======
 - bugfix - finishing the player during playback might cause a crash
