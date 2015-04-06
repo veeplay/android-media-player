@@ -4,6 +4,13 @@
 - added support for multiple renderers. By default, VeePlay ships with two default renderers, MediaPlayerRenderer (used automatically for 4.0.x devices) and ExoPlayerRenderer(used automatically for 4.1+ devices)
 - APSMediaUnit objects now hold a renderer string property. In order to explicitly set a renderer, use the static rendererIdentifier string of the renderer class.
 - bugfix - transitioning to full screen and then changing orientation could cause an exception
+- Improved HLS support for 4.1+ devices
+- Shorter buffering times
+- Support for 3rd party renderers. In order to plug a player for rendering content, it's a question of implementing IVeeplayRenderer and registering it with the player
+- Accuracy to the second when seeking
+- Native support for DASH and SmoothStreaming is now possible (if interested in this feature please contact office@veeplay.co)
+- Widevine DRM support is now possible (if interested in this feature please contact office@veeplay.co)
+- Faster transition to higher bitrate streams (it takes about 4-6 seconds to switch streams)
 - this version is a release candidate. Altough it was extensively tested over the past few weeks, it should be tested with each implementation before deploying into production
 
 1.9.23
