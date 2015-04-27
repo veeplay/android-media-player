@@ -1,3 +1,9 @@
+1.9.25 (2.0.0 RC2)
+==================
+- updated Youtube API adding support for Lollipop
+- updated supported color formats for Controls and Text overlays (RGBA, RGB, #RGBA and #RGB)
+- minor bugfixes and API improvements
+
 1.9.24 (2.0.0 RC1)
 ==================
 - bugfix - cloning a unit did not also copy over the unit manager
