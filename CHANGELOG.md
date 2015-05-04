@@ -1,3 +1,7 @@
+2.0.0
+=====
+- added support for the Google Cast plugin
+
 1.9.25 (2.0.0 RC2)
 ==================
 - updated Youtube API adding support for Lollipop
