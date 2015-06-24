@@ -39,8 +39,8 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled true
-            proguardFile getDefaultProguardFile('proguard.cfg')
+//            minifyEnabled true
+//            proguardFile getDefaultProguardFile('proguard.cfg')
         }
     }
 }
@@ -53,6 +53,7 @@ dependencies {
     compile files('libs/YouTubeAndroidPlayerApi.jar')
     compile files('libs/cloning-1.9.0.jar')
     compile files('libs/jdom-2.0.5.jar')
+    compile files('libs/appscendvastplayer.jar')
     compile 'com.android.support:support-v4:20.0.0'
     compile 'com.google.code.gson:gson:2.3'
     compile 'com.squareup.okhttp:okhttp:2.1.0'
@@ -61,4 +62,4 @@ dependencies {
     compile files('libs/exoplayer-general.jar')
 }
 
-apply from: "..\\upload_archives_task.gradle"
+//apply from: "..\\upload_archives_task.gradle"
