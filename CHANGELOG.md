@@ -1,3 +1,7 @@
+2.0.5
+=====
+- Stability improvements / bugfixes
+
 2.0.0
 =====
 - added support for the Google Cast plugin
