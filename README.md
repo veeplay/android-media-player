@@ -16,6 +16,6 @@ The SDK is also available via Maven. Add the following lines to your build.gradl
       }
     }
     dependencies {
-       compile 'com.veeplay:veeplay-player-android:2.0.11'
+       compile 'com.veeplay:veeplay-player-android:2.0.13'
        compile 'com.veeplay:veeplay-cast-plugin:1.0.6'
     }
