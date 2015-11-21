@@ -12,7 +12,7 @@ The SDK is also available via Maven. Add the following lines to your build.gradl
     repositories {
       mavenCentral()
       maven {
-        url "https://android.veeplay.com.s3.amazonaws.com/releases"
+        url "https://s3-eu-west-1.amazonaws.com/android.veeplay.com/releases"
       }
     }
     dependencies {
