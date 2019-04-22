@@ -16,6 +16,5 @@ Please note that the Eclipse project distribution is no longer supported. The mo
       }
     }
     dependencies {
-       compile 'com.veeplay:veeplay-player-android:2.1.8'
-       compile 'com.veeplay:veeplay-cast-plugin:1.1.2' //optional
+       compile 'com.veeplay:veeplay-player-android:2.1.50'
     }
