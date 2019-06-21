@@ -16,5 +16,5 @@ Please note that the Eclipse project distribution is no longer supported. The mo
       }
     }
     dependencies {
-       compile 'com.veeplay:veeplay-player-android:2.1.50'
+       compile 'com.veeplay:veeplay-player-android:3.0.5'
     }
