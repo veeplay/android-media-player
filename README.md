@@ -1,7 +1,13 @@
 Veeplay for Android SDK
 =======================================
 
-Javadoc documentation is available here: [http://veeplay.github.io/android-media-player-standalone-library/](http://veeplay.github.io/android-media-player-standalone-library/)
+**Javadoc documentation:** [http://veeplay.github.io/android-media-player-standalone-library/](http://veeplay.github.io/android-media-player-standalone-library/)
+
+**Current changelog:** https://github.com/veeplay/android-media-player/wiki/Changelog
+
+**SSAI player documentation:** https://github.com/veeplay/android-media-player/wiki/SSAI-Documentation
+
+**Google Cast documentation:** https://github.com/veeplay/android-media-player/wiki/Google-Cast-Documentation
 
 A valid Veeplay License is required for running the player. You can sign-up for a trial license here: [panel.veeso.co](https://panel.veeso.co)
 
