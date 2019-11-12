@@ -1,13 +1,13 @@
-android-media-player-standalone-library
+Veeplay for Android SDK
 =======================================
-
-A container for the Android Veeso Libraries. 
 
 Javadoc documentation is available here: [http://veeplay.github.io/android-media-player-standalone-library/](http://veeplay.github.io/android-media-player-standalone-library/)
 
-A valid Veeso License is required for running the player. You can sign-up for a trial license here: [panel.veeso.co](https://panel.veeso.co)
+A valid Veeplay License is required for running the player. You can sign-up for a trial license here: [panel.veeso.co](https://panel.veeso.co)
 
-Please note that the Eclipse project distribution is no longer supported. The most recent Veeplay SDK is available via Maven. Add the following lines to your build.gradle files:
+This repository contains a stand-alone container for the Android Veeplay Libraries, usable with old ANT-based Android projects. Please note that this Eclipse project distribution is no longer supported. The most recent Veeplay SDK is available via Maven. 
+
+Add the following lines to your build.gradle files:
 
     repositories {
       mavenCentral()
@@ -16,5 +16,5 @@ Please note that the Eclipse project distribution is no longer supported. The mo
       }
     }
     dependencies {
-       compile 'com.veeplay:veeplay-player-android:3.0.5'
+       compile 'com.veeplay:veeplay-player-android:3.1.2'
     }
