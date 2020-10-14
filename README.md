@@ -9,6 +9,8 @@ Veeplay for Android SDK
 
 **Google Cast documentation:** https://github.com/veeplay/android-media-player/wiki/Google-Cast-Documentation
 
+**Viewability Measurements:** https://github.com/veeplay/android-media-player/wiki/Viewability-Measurements
+
 A valid Veeplay License is required for running the player. You can sign-up for a trial license here: [panel.veeso.co](https://panel.veeso.co)
 
 This repository contains a stand-alone container for the Android Veeplay Libraries, usable with old ANT-based Android projects. Please note that this Eclipse project distribution is no longer supported. The most recent Veeplay SDK is available via Maven. 
