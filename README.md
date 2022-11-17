@@ -24,5 +24,5 @@ Add the following lines to your build.gradle files:
       }
     }
     dependencies {
-       compile 'com.veeplay:veeplay-player-android:3.1.23'
+       compile 'com.veeplay:veeplay-player-android:3.1.24'
     }
